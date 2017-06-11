@@ -1,0 +1,7 @@
+First	Last	Kit#	Event	Time(min)	Seconds
+vinod	Singh	1	400	3	12
+akash	singh	2	100	12	4
+yang	hu	666	100	12	3
+shake	shack	12	100	45	0
+John	Oliver	13	110hurdles	23	12
+Maxxson	chu	12	100	11	100
